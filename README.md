@@ -1,1 +1,1 @@
-# Sistema-de-gesti-n-de-inventarios-azvanzados
+# Sistema-de-gestion de-inventarios-azvanzados
